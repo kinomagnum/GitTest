@@ -6,6 +6,6 @@ public class HomeWork1 {
 
     }
     private static void taSk1() {
-        System.out.println("Первая задача");
+        System.out.println("Первая задача!");
     }
 }
